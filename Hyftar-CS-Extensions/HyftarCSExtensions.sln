@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyftarCSExtensions", "Hyftar-CS-Extensions\HyftarCSExtensions.csproj", "{1312907B-33DD-4D73-BE15-9553A09A6366}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyftarCSExtensionsTests", "HyftarCSExtensionsTests\HyftarCSExtensionsTests.csproj", "{5F3FC77C-9B5E-4864-B946-9094C21F3953}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1312907B-33DD-4D73-BE15-9553A09A6366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1312907B-33DD-4D73-BE15-9553A09A6366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1312907B-33DD-4D73-BE15-9553A09A6366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1312907B-33DD-4D73-BE15-9553A09A6366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F3FC77C-9B5E-4864-B946-9094C21F3953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F3FC77C-9B5E-4864-B946-9094C21F3953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F3FC77C-9B5E-4864-B946-9094C21F3953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F3FC77C-9B5E-4864-B946-9094C21F3953}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80E49DA6-5B1A-4B3A-BBE2-6AB60CBAAAFB}
+	EndGlobalSection
+EndGlobal
